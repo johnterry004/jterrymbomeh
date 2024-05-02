@@ -273,7 +273,7 @@ section .title::after{
     width: calc(33% - 20px);
     background: #673d3dab;
     text-align: center;
-    border-radius: 6px;
+    border-radius: 7px;
     padding: 50px 25px;
     cursor: pointer;
     transition: all 0.3s ease;
@@ -288,7 +288,7 @@ section .title::after{
     transform: scale(1.05);
 }
 .services .serv-content .card i{
-    font-size: 50px;
+    font-size: 52px;
     color: crimson;
     transition: color 0.3s ease;
 }
