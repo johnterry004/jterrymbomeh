@@ -270,19 +270,19 @@ section .title::after{
     content: "what i provide";
 }
 .services .serv-content .card{
-    width: calc(33% - 20px);
+    width: calc(35% - 20px);
     background: #673d3dab;
     text-align: center;
     border-radius: 7px;
-    padding: 50px 25px;
+    padding: 55px 30px;
     cursor: pointer;
-    transition: all 0.3s ease;
+    transition: all 0.5s ease;
 }
 .services .serv-content .card:hover{
     background: crimson;
 }
 .services .serv-content .card .box{
-    transition: all 0.3s ease;
+    transition: all 0.5s ease;
 }
 .services .serv-content .card:hover .box{
     transform: scale(1.05);
@@ -290,7 +290,7 @@ section .title::after{
 .services .serv-content .card i{
     font-size: 52px;
     color: crimson;
-    transition: color 0.3s ease;
+    transition: color 0.5s ease;
 }
 .services .serv-content .card:hover i{
     color: #fff;
